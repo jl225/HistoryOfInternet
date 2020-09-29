@@ -5,8 +5,8 @@
       <paths name="AFS">
         <serverdata>
           <mappings>
-            <mapping deploy="/history-of-internet" local="$PROJECT_DIR$" web="/history-of-internet" />
-            <mapping deploy="" local="" />
+            <mapping deploy="/historyofinternet" local="$PROJECT_DIR$" web="/historyofinternet" />
+            <mapping deploy="" local="" web="" />
           </mappings>
         </serverdata>
       </paths>
