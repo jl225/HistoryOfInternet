@@ -65,7 +65,8 @@ menu {
     line-height: 52px;
     margin-bottom: 27px;
 }
-footer {
+#footer {
+    clear: both;
     text-align: center;
 }
 h2 {
