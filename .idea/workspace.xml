@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a09b6072-7dff-4646-9d6f-35849c40ed1a" name="Default Changelist" comment="Task: images and cards added">
-      <change afterPath="$PROJECT_DIR$/docs/images/596566-jeff-bezos-amazon-dna.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/Alphabet-org-chart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/ebay-wenig-1184c79ed999c5c1b0a1b6acb7b1828c1f56c332.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/gettyimages-450831304.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/images/google-im-feeling-hungry-button-370x229.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/dotcom.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dotcom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/searchengine.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/searchengine.html" afterDir="false" />
-    </list>
+    <list default="true" id="a09b6072-7dff-4646-9d6f-35849c40ed1a" name="Default Changelist" comment="Task: more images added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +77,7 @@
       <updated>1601411131389</updated>
       <workItem from="1601411132550" duration="32877000" />
       <workItem from="1601449527236" duration="18000" />
-      <workItem from="1601477742394" duration="5008000" />
+      <workItem from="1601477742394" duration="5331000" />
     </task>
     <task id="LOCAL-00001" summary="Task: structure setup">
       <created>1601414870387</created>
@@ -228,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601481105386</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Task: more images added">
+      <created>1601483037972</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601483037972</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +262,8 @@
     <MESSAGE value="Task: Footer Added" />
     <MESSAGE value="Task: Footer fixed" />
     <MESSAGE value="Task: images and cards added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: images and cards added" />
+    <MESSAGE value="Task: more images added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: more images added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="91" key="#Deployment" timestamp="1601424111617">
@@ -284,11 +283,11 @@
     </state>
     <state x="834" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1449.864@0.0.1449.864" timestamp="1601414999304" />
     <state x="836" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1452.864@0.0.1452.864" timestamp="1601449462235" />
-    <state x="601" y="168" key="Vcs.Push.Dialog.v2" timestamp="1601481112789">
+    <state x="601" y="168" key="Vcs.Push.Dialog.v2" timestamp="1601483040750">
       <screen x="0" y="0" width="1452" height="864" />
     </state>
     <state x="600" y="168" key="Vcs.Push.Dialog.v2/0.0.1449.864@0.0.1449.864" timestamp="1601447607465" />
-    <state x="601" y="168" key="Vcs.Push.Dialog.v2/0.0.1452.864@0.0.1452.864" timestamp="1601481112789" />
+    <state x="601" y="168" key="Vcs.Push.Dialog.v2/0.0.1452.864@0.0.1452.864" timestamp="1601483040750" />
     <state x="810" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601415305865">
       <screen x="0" y="0" width="1449" height="864" />
     </state>
