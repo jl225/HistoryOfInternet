@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a09b6072-7dff-4646-9d6f-35849c40ed1a" name="Default Changelist" comment="Task: peoples pictures updated">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/browserwar.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/browserwar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.html" afterDir="false" />
+    <list default="true" id="a09b6072-7dff-4646-9d6f-35849c40ed1a" name="Default Changelist" comment="Task: final pull failed">
+      <change beforePath="$PROJECT_DIR$/docs/dotcom.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dotcom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/invention.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="people" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iCUaR4Tc4KJupzqz3c1xe65E2d" />
@@ -82,7 +86,7 @@
       <updated>1601411131389</updated>
       <workItem from="1601411132550" duration="32877000" />
       <workItem from="1601449527236" duration="18000" />
-      <workItem from="1601477742394" duration="21788000" />
+      <workItem from="1601477742394" duration="22141000" />
     </task>
     <task id="LOCAL-00001" summary="Task: structure setup">
       <created>1601414870387</created>
@@ -266,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601522183055</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Task: final pull failed">
+      <created>1601523571551</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1601523571551</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +319,8 @@
     <MESSAGE value="Task: searchengine.html updated" />
     <MESSAGE value="Task: pictures updated" />
     <MESSAGE value="Task: peoples pictures updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: peoples pictures updated" />
+    <MESSAGE value="Task: final pull failed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: final pull failed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="317" y="91" key="#Deployment" timestamp="1601424111617">
@@ -328,11 +340,11 @@
     </state>
     <state x="834" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1449.864@0.0.1449.864" timestamp="1601414999304" />
     <state x="836" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1452.864@0.0.1452.864" timestamp="1601449462235" />
-    <state x="601" y="168" key="Vcs.Push.Dialog.v2" timestamp="1601522257722">
+    <state x="601" y="168" key="Vcs.Push.Dialog.v2" timestamp="1601523573462">
       <screen x="0" y="0" width="1452" height="864" />
     </state>
     <state x="600" y="168" key="Vcs.Push.Dialog.v2/0.0.1449.864@0.0.1449.864" timestamp="1601447607465" />
-    <state x="601" y="168" key="Vcs.Push.Dialog.v2/0.0.1452.864@0.0.1452.864" timestamp="1601522257722" />
+    <state x="601" y="168" key="Vcs.Push.Dialog.v2/0.0.1452.864@0.0.1452.864" timestamp="1601523573462" />
     <state x="810" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601415305865">
       <screen x="0" y="0" width="1449" height="864" />
     </state>
